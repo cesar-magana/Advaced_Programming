@@ -1,0 +1,35 @@
+
+%------------------------------------------------------------------------------
+%
+% Programación Avanzada HW08P02
+% César Magaña
+%
+%------------------------------------------------------------------------------
+
+\documentclass[twoside,12pt,letterpaper]{book}
+\usepackage[utf8x]{inputenc}
+\usepackage[dvipdfm, colorlinks, breaklinks, pdftitle={Programación Avanzada Tarea8 Problema 2},pdfauthor={Magaña, Cesar}]{hyperref}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{color}
+\usepackage{fancyhdr}
+\usepackage[pdftex]{graphicx}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[C]{\LARGE{\textbf{Tarea 8}}}
+\setlength{\textwidth}{13cm}
+%------------------------------------------------------------------------------
+
+\newcommand{\R}{{\mathbb{R}}}
+\newcommand{\N}{{\mathbb{N}}}
+
+\begin{document}
+\noindent\textbf{Problema 2.}\\
+\newline
+
+
+\end{document}
+
+%-------------------------------------------------------------------------------
