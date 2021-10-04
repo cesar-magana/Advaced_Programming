@@ -1,2 +1,2 @@
 # Advanced_Programming
-Advanced Programming homework and projects
+Advanced Programming Master's Course: Homework, projects and exams.
